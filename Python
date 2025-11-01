@@ -1,0 +1,14 @@
+Python is the language AI\ML engineers. We will use it everyday for data processing,
+model building, and system design.
+
+1. Variables and Data Types
+A variable is a container that holds a value. There are several data types.
+
+What are 3 different data types you used today?
+Integer, Float, String
+
+What does the f"..." syntax do?
+Its a string formatting,used for string concatenation.
+
+What does profile.items() do in a loop?
+It goes through the key and values one at a time.
